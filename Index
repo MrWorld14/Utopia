@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Journal</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Personal Journal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="journal.html">Journal</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome!</h2>
+            <p>This is my personal website where I share my life and learnings.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © 2023</p>
+    </footer>
+</body>
+</html>
